@@ -1,6 +1,6 @@
 [![Project Cover](resources/template.png)](predicting_customer_subscriptions.pdf)
 
-# Diabetes Risks Prediction
+# Predicting Customer Subscriptions
 
 
 ## Business Overview
