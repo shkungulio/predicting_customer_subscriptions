@@ -12,7 +12,7 @@
 ## Exploratory Data Analysis & Key Trends
 
 
-## Models Explored & the Results
+## Models Explored & Results
 
 
 ## Dashboard Preview
